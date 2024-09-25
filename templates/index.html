@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Predict Pneumonia</title>
+</head>
+<body>
+    <h1>Predict Pneumonia</h1>
+    <form action="/predict" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept="image/*" required>
+        <button type="submit">Upload and Predict</button>
+    </form>
+
+    {% if prediction %}
+    <h2>Prediction Results:</h2>
+    <ul>
+        {% for class, percentage in prediction.items() %}
+        <li>{{ class }}: {{ percentage }}%</li>
+        {% endfor %}
+    </ul>
+    <img src="{{ img_url }}" alt="Uploaded Image" style="max-width: 300px;">
+    {% endif %}
+</body>
+</html>
