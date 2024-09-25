@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "xray-pneumonia2024",
+  "private_key_id": "b1ef02112052b3abcd9fd975420e4866b0faa48d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC49UBXEKnmlZso\nIQEfCfdyirAfrsq7H3RjhB6/XsB+NLiZol8VTxjDVXxJuQat5SPZ4KwmNpRf9Db0\nhhkpQNyNTqzEzGwXbpi4wQReb8F/ahBZp7ngD+nTMW06CjFl4s2EGNLkNCxZZNMV\n5kqn0rG1FlaUIDI6x5V6ajLcElBA3VmdW/5AoZ4be7kOcThcBa1q1IeTasspyIu3\nITMchd4lg+UwyjoWGPeOePfPjBx457BzNhrXTgqb/2jzaeMeeJSUf0tKSEhJ6GQk\nRtPhqObiimq/q7jj+jKNQyK9D2i15lmBII11YqT5yMP3d7Y6ZBcDC1GFsP0Ia+G0\nzOPh0nZnAgMBAAECggEAKIEM5gQwMN7ya4dOx41XMy5MA6QzoWbyBhkY4q/NV9YT\n1xFH4VLBCYXfAgYTAGH9x+j7yiKJu7mvjz0OpYoewpNIIpDh2v/NUihy3Ht81HpV\nukyQ2BCkFCvuz5cL2lQgzZziEjeavrjlwRX9o2Lwp8eMjkO+vECY64X2PVuFV67C\nJGgmbxO1HDGPrnadjFgaQawOZVKiuLWJ8e9cDrFiibCJSu9MPXuDt07hRJUONad6\npQ0eGppNyFu0kca3MR3zg/moS83KU5qarZQe1PHv/j3MZpaoO89XWw42rYxnmohh\nJokqKAgYuaYJTJgZ+gTGXZKV2q6x6D8GPDdBav6zgQKBgQDrx2uI4vFHQ+OE0vWy\nmdOLio4NlTX5CoWjug0NUkinDQIYhSZn3TPiw7o3eOPW7gzEsaRJocelHnDZ19S1\nK46HWgX2OqEE6cvsSoBapAJwuOCeuyI7tvzJ8qmxzmIamN/fuMIf5f8BXMNygi2s\nHaVuNJjq3JYrPTRPIBvDaW0t/QKBgQDI0gupv/gvLIYDJNLsu9D6401TJ5IAcHOp\nWoXFXGhJu/vlS5f98fp26vLTZfS1OfyXoFNCX50UGu0UbreNarBRsGSQnIfCoxdc\nl5W8JanMWV0e/Vj+IXBd29sNHpGHo7t+Xk2TyCSNm1SbCxjVj8gSE1pd3K4lAWz3\n+zGY3f6RMwKBgA3IV4Hl+kK3NjqSdmhdU59plwo2ObR4J/29J3wq3jJdsUyro+YY\naSsNU/pgJ7ltqvNoivj+6wO89s3VLwr0I93HpmeRX85AuHn0lPI3eikKtZ6xw7uH\n49kORVsufE+fth6G11o0AKccvBQahf70sLHzgyjfgiu+5Srm7piKtiYlAoGBALr4\nXOWBlveM04SvzzWbs/kykbae+98u03DUmAFlhK9Jt0AHvo4vscrv+n75yPjF8TfW\njE4aqSuj2iGQ55Jhx6F2wlqlcfy0TbbmZwGSa2GXvgxxQl7xESZB4NN5J3OK7LC9\n6ipySB4ThZUIoumLAXJa1GLZaMWJa0QCem3iGfZjAoGBAMqbuKJRTYUgHGWj6q6p\n86BHR1tQAGNmYMkQBG0lj5W5jM2308KAheF8RLl6nFLLgPwQ8rPhdFWF8E5rT+AA\npjU1e6XCyF/0v/dDTaag4jW0LVPyiPAnJfRlXXA06FIoLO2WHZ+h8rxESoqeZ7Xm\nyan2jA/VRodfc8b1NUEzAais\n-----END PRIVATE KEY-----\n",
+  "client_email": "xray-pneumonia2024@appspot.gserviceaccount.com",
+  "client_id": "115571756591653719510",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/xray-pneumonia2024%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
