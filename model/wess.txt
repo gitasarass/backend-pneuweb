@@ -1,0 +1,27 @@
+1. Pengujian Testing (20)
+a. Dokter Paru/Umum = 5/3
+	a. Dokter Gede (Dokter Umum)
+	b. Dokter Baskoro (Dokter Penyakit Dalam)
+	c. Dokter Salim (Dokter Paru)
+	d. Dokter Rina Lestari Sp.p (Dokter Paru)
+	e.
+ - Menanyakan Gejala yang Penting untuk di website
+ - Pengujian Website Pneumonia User Dokter
+b. Mahasiswa Kedokteran
+	a.
+	b.
+	c.
+	d.
+	e.
+c. Lainnya
+	a.
+	b.
+	c.
+	d.
+	e.
+c. Pelayanan Puskesmas = 5/8
+	a. Puskesmas Karang Pule
+	b. Rumah Sakit Biomedika
+	c. Puskesmas Perawatan Tanjung Karang
+	d. Puskesmas Dasan Cermen
+	e. Puskesmas Selaparang
